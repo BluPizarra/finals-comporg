@@ -1,5 +1,6 @@
 # 5x5 Electronic Parol LED Matrix Sequencer
 > **Computer Organization (COMPORG Finals)**  
+> **Live Interactive Simulator:** [blupizarra.github.io/finals-comporg](https://blupizarra.github.io/finals-comporg/)  
 > **Interactive Tinkercad Circuit:** [finals-comporg on Tinkercad](https://www.tinkercad.com/things/2AHTjSkFMHO-finals-comporg)  
 > **Author:** [Bludylan Cyrus A. Pizarra](https://github.com/BluPizarra) (@BluPizarra)
 
