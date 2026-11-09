@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Project Overview
+## Project Overview
 
 The **5x5 Electronic Parol Sequencer** is a digital logic system that recreates the rhythmic, animated lighting patterns of an iconic **Philippine Christmas Lantern (*Parol*)** using fundamental computer engineering concepts.
 
@@ -40,7 +40,7 @@ An **Arduino Uno** serves as a synchronous 4-bit binary counter cycling from `00
 
 ---
 
-## 🎨 5x5 Matrix Spatial Mapping & Symmetry
+## 5x5 Matrix Spatial Mapping & Symmetry
 
 The 25 discrete LEDs in the $5 \times 5$ grid are mapped into 13 symmetrical channel pairs to produce authentic chasing borders, diamond contractions, and celebratory starbursts:
 
@@ -60,7 +60,7 @@ Row 5   [  X5  ] [  X4  ] [  X3  ] [  X2  ] [  X1  ]   <-- Bottom Perimeter
 
 ---
 
-## ⚡ 16-State Animation Progression
+## 16-State Animation Progression
 
 | State | Binary ($ABCD$) | Active Channels | Lighting Effect / Parol Pattern |
 |:---:|:---:|:---:|:---|
@@ -85,7 +85,7 @@ Detailed breakdown available in [`docs/truth_table.md`](docs/truth_table.md).
 
 ---
 
-## 📐 Boolean Logic Equations & Gate Sharing
+## Boolean Logic Equations & Gate Sharing
 
 Using Boolean algebra and Karnaugh Maps, expressions were simplified into minimal Sum-of-Products (SOP) forms, leveraging common sub-expressions to dramatically reduce the required 74xx IC gate count:
 
@@ -115,7 +115,7 @@ Complete derivation in [`docs/boolean_derivation.md`](docs/boolean_derivation.md
 
 ---
 
-## 🛠️ Hardware Bill of Materials (BOM)
+## Hardware Bill of Materials (BOM)
 
 | Component | Part / Value | Qty | Function |
 |:---|:---|:---:|:---|
@@ -132,7 +132,7 @@ Complete derivation in [`docs/boolean_derivation.md`](docs/boolean_derivation.md
 
 ---
 
-## 💻 Arduino Counter Firmware
+## Arduino Counter Firmware
 
 The Arduino sketch (`arduino/finals_comporg/finals_comporg.ino`) clocks the 4-bit binary states with a 300ms cycle delay:
 
@@ -167,7 +167,7 @@ void loop() {
 
 ---
 
-## 🚀 Running the Project
+## Running the Project
 
 ### Option 1: Interactive Browser Simulator
 Open `index.html` in any modern web browser or host on GitHub Pages:
@@ -190,7 +190,7 @@ Open `index.html` in any modern web browser or host on GitHub Pages:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 finals-comporg/
@@ -215,7 +215,7 @@ finals-comporg/
 
 ---
 
-## 👨‍💻 Author & Acknowledgments
+## Author & Acknowledgments
 
 * **Student:** Bludylan Cyrus A. Pizarra ([@BluPizarra](https://github.com/BluPizarra))
 * **Course:** Computer Organization (COMPORG Finals)
@@ -224,6 +224,6 @@ finals-comporg/
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
