@@ -1,6 +1,5 @@
 # 5x5 Electronic Parol LED Matrix Sequencer
 
-[![Live Simulator](https://img.shields.io/badge/Live%20Simulator-Visit%20Parol%20Lab-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://blupizarra.github.io/finals-comporg/)
 [![Tinkercad](https://img.shields.io/badge/Tinkercad-Circuit%20Simulation-0086D6?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.tinkercad.com/things/2AHTjSkFMHO-finals-comporg)
 [![Arduino](https://img.shields.io/badge/Arduino-Uno%20R3-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Logic Gates](https://img.shields.io/badge/Logic-74xx%20TTL-E34F26?style=for-the-badge)](https://github.com/BluPizarra/finals-comporg)
@@ -8,7 +7,6 @@
 [![Academic](https://img.shields.io/badge/APC-COMPORG%20Finals-B3665B?style=for-the-badge)](https://www.apc.edu.ph/)
 
 > **Computer Organization (COMPORG Finals)**  
-> **Live Interactive Simulator:** [blupizarra.github.io/finals-comporg](https://blupizarra.github.io/finals-comporg/)  
 > **Interactive Tinkercad Circuit:** [finals-comporg on Tinkercad](https://www.tinkercad.com/things/2AHTjSkFMHO-finals-comporg)  
 > **Author:** [Bludylan Cyrus A. Pizarra](https://github.com/BluPizarra) (@BluPizarra)
 
