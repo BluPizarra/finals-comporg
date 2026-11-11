@@ -1,10 +1,10 @@
 # 5x5 Electronic Parol LED Matrix Sequencer
 
-[![Tinkercad](https://img.shields.io/badge/Tinkercad-Circuit%20Simulation-0086D6?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.tinkercad.com/things/2AHTjSkFMHO-finals-comporg)
-[![Arduino](https://img.shields.io/badge/Arduino-Uno%20R3-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Logic Gates](https://img.shields.io/badge/Logic-74xx%20TTL-E34F26?style=for-the-badge)](https://github.com/BluPizarra/finals-comporg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Academic](https://img.shields.io/badge/APC-COMPORG%20Finals-B3665B?style=for-the-badge)](https://www.apc.edu.ph/)
+[![Tinkercad](https://img.shields.io/badge/Tinkercad-Circuit%20Simulation-404258?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.tinkercad.com/things/2AHTjSkFMHO-finals-comporg)
+[![Arduino](https://img.shields.io/badge/Arduino-Uno%20R3-474E68?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Logic Gates](https://img.shields.io/badge/Logic-74xx%20TTL-50577A?style=for-the-badge)](https://github.com/BluPizarra/finals-comporg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-6B728E?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Academic](https://img.shields.io/badge/APC-COMPORG%20Finals-404258?style=for-the-badge)](https://www.apc.edu.ph/)
 
 > **Computer Organization (COMPORG Finals)**  
 > **Interactive Tinkercad Circuit:** [finals-comporg on Tinkercad](https://www.tinkercad.com/things/2AHTjSkFMHO-finals-comporg)  
